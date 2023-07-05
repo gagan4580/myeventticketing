@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: us.gcr.io/i-gateway-373817/auth
+          image: 27564580/auth
 ---
 apiVersion: v1
 kind: Service
